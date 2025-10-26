@@ -1,0 +1,14 @@
+{
+  "train_accuracy": 0.9229781771501926,
+  "test_accuracy": 0.9179487179487179,
+  "test_auc": 0.8264281230382925,
+  "model_type": "logistic",
+  "feature_columns": [
+    "feature1",
+    "feature2",
+    "feature3"
+  ],
+  "training_date": "2025-10-26T22:20:51.473342",
+  "n_train_samples": 779,
+  "n_test_samples": 195
+}

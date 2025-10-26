@@ -4,3 +4,7 @@ pandas
 scikit-learn
 joblib
 pytest
+psutil
+pydantic
+httpx
+pytest-cov
