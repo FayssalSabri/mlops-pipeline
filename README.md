@@ -1,6 +1,6 @@
-# 🚀 MLOps Pipeline – Déploiement d’un modèle de Machine Learning
+#  MLOps Pipeline – Déploiement d’un modèle de Machine Learning
 
-## 🎯 Objectif
+##  Objectif
 Mettre en place un pipeline complet pour déployer un modèle de Machine Learning :
 - Entraînement automatique (`train.py`)
 - API via FastAPI
@@ -9,7 +9,7 @@ Mettre en place un pipeline complet pour déployer un modèle de Machine Learnin
 
 ---
 
-## ⚙️ Installation locale
+##  Installation locale
 
 ```bash
 git clone https://github.com/<ton_user>/mlops-pipeline.git
